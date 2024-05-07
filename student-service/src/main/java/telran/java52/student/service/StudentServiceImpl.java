@@ -12,7 +12,7 @@ import telran.java52.student.dto.ScoreDto;
 import telran.java52.student.dto.StudentAddDto;
 import telran.java52.student.dto.StudentDto;
 import telran.java52.student.dto.StudentUpdateDto;
-import telran.java52.student.dto.exeptiion.StudentNotFoundExeption;
+import telran.java52.student.dto.exeptions.StudentNotFoundExeption;
 import telran.java52.student.model.Student;
 
 @Service
